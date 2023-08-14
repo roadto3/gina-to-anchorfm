@@ -1,8 +1,8 @@
-name: '[DEMO] Upload Episode from YouTube To Anchor.Fm'
+name: 'Upload Episode from YouTube To Anchor.Fm'
 
 on:
   push:
-    paths: 
+    paths:
       - episode.json
     branches: [main]
 
